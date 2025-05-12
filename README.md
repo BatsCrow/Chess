@@ -1,4 +1,4 @@
-This an implementation of Chess in Java using Swing for the UI
+This an implementation of Chess in Java using Swing for the UI.
 
 The goal of the project was to serve as an introductory to Java since this was my first experience with it.
 
